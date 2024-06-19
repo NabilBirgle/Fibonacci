@@ -33,7 +33,6 @@ print(fibonacci_1(n))
 end = time.time()
 print("{:e}".format(end-start))
 
-
 start = time.time()
 print(fibonacci_2(n))
 end = time.time()
